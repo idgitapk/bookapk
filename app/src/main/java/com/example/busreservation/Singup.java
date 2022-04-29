@@ -21,7 +21,7 @@ public class Singup extends AppCompatActivity {
              public void onClick(View view) {
                  Intent i= new Intent(Singup.this,MainActivity.class);
                  startActivity(i);
-                 finish();
+                 
              }
          });
 
